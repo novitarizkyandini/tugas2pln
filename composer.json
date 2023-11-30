@@ -1,0 +1,19 @@
+{
+    "name": "suendri-uinsu/pbwl-tugas1",
+    "description": "Tugas Praktikum MVC Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Novi-S1-uinsu",
+            "email": "Novi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
